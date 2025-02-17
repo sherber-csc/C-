@@ -361,3 +361,13 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+# 忽略 VS 生成的文件和目录
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.VC.db
+*.cache
+*.pdb
