@@ -1,6 +1,6 @@
 ## C++基础
 
-https://www.w3schools.com/cpp/default.asp（学习网址）
+https://www.w3schools.com/cpp/default.asp（学习网址，基础部分不在记录，直接上网站查找使用）
 
 ### 1.常量
 
